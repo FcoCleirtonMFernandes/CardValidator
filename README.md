@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-<p align="center"> [Runing](https://card-validator-sp4997o64-fcocleirtonmfernandes.vercel.app/) para acessá-lo. </p>
+<p align="center"> .[Runing](https://card-validator-sp4997o64-fcocleirtonmfernandes.vercel.app/) para acessá-lo. </p>
 
 ## 🚀 Tecnologias
 
